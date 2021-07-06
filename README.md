@@ -1,14 +1,14 @@
 # Bootstrap_Landing_Page
--Link to Hosted Project:- (https://bootstrapped-landing-page.web.app)
--Header Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_header.png).
--About Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_about_us.png).
--Menu Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_menu.png).
--Specials Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_specials.png).
--Contact-Us Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_contact_us.png).
--Footer Section
--![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_footer.png).
+- Link to Hosted Project:- (https://bootstrapped-landing-page.web.app)
+- Header Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_header.png).
+- About Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_about_us.png).
+- Menu Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_menu.png).
+- Specials Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_specials.png).
+- Contact-Us Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_contact_us.png).
+- Footer Section
+- ![alt text](https://github.com/Chitranshu-9/Bootstrap_Landing_Page/blob/main/bootstrap_footer.png).
